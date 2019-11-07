@@ -9,7 +9,7 @@ const Header = props => (
         <header className="header-header">
             {/* <img src={logo} className="header-logo" alt="logo" /> */}
             <img src={logo} className="header-logo" alt="logo" />
-            <h1 className="header-title">Pokemon Click Game React</h1>
+            <h1 className="header-title">PoKéMoN Clicky Game</h1>
         </header>
         
         <br></br>

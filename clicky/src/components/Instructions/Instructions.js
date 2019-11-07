@@ -6,7 +6,7 @@ import "./Instructions.css";
 const Instructions = props => (
     <div className="instructionsbox">
         {/* <h1>Pokemon Memory game!</h1> */}
-        <p>Trainer!  Click on PoKeMoN, but not on the same one twice.</p>
+        <p>Trainer!  Click on PoKéMoN, but not on the same one twice.</p>
     </div>
 );
 
