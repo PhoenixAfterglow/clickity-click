@@ -1,6 +1,9 @@
 //Importing React Components
 import React from "react";
 import "./PokemonCard.css";
+// import UIfx from './uifx'
+// import winMp3 from "../../sfx/win.mp3"
+
 
 //Image Cards Div
 const PokemonCard = props => (
@@ -14,6 +17,12 @@ const PokemonCard = props => (
         </div>
     </div>
 );
+
+// Sound Effects (SFX)
+
+// const win = new UIfx(winMp3)
+// <button onClick={beep.play}>Signup</button>
+
 
 //Export Component for Use in the Rest of Application.
 export default PokemonCard;

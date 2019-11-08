@@ -2,6 +2,7 @@
 import React from "react";
 import logo from '../../img/pokeball.png';
 import "./Header.css";
+import Sound from 'react-sound';
 
 //Header Div
 const Header = props => (
@@ -16,6 +17,20 @@ const Header = props => (
 
     </div>
 );
+
+// Play Sound
+// soundRender() ;{
+//     return (
+//       <Sound
+//       url={"../../sfx/win.mp3"}
+//       playStatus={Sound.status.PLAYING}
+//       onLoading={this.handleSongLoading}
+//       onPlaying={this.handleSongPlaying}
+//       onFinishedPlaying={this.handleSongFinishedPlaying}
+//       />
+//      );
+//     }
+   
 
 //Export Component for Use in the Rest of Application.
 export default Header;
