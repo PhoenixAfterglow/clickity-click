@@ -26,7 +26,7 @@ For this assignment, you'll create a memory game with React. This assignment wil
 
 ### Instructions
 
-1. Check out the [example solution](https://clicky-game.netlify.com/) and study the app's basic functionality.
+<!-- 1. Check out the [example solution](https://clicky-game.netlify.com/) and study the app's basic functionality.
 
 2. Create a new React application using [Create React App](https://github.com/facebookincubator/create-react-app).
 
@@ -38,13 +38,13 @@ For this assignment, you'll create a memory game with React. This assignment wil
 
 6. Once the user's score is reset after an incorrect guess, the game should restart.
 
-7. When complete, the application should be deployed to Github Pages. See the README generated with Create React App for instructions on deploying the application to Github Pages.
+7. When complete, the application should be deployed to Github Pages. See the README generated with Create React App for instructions on deploying the application to Github Pages. -->
 
 - - -
 
 #### Minimum Requirements
 
-* **This assignment must be deployed.** Attempt to complete homework assignment as described in instructions. If unable to complete certain portions, please pseudocode these portions to describe what remains to be completed. Hosting on Github Pages and adding a README.md are required for this homework. In addition, add this homework to your portfolio. More information can be found below.
+<!-- * **This assignment must be deployed.** Attempt to complete homework assignment as described in instructions. If unable to complete certain portions, please pseudocode these portions to describe what remains to be completed. Hosting on Github Pages and adding a README.md are required for this homework. In addition, add this homework to your portfolio. More information can be found below. -->
 
 - - -
 
@@ -76,6 +76,6 @@ After completing the homework please add the piece to your portfolio. Make sure 
 
 #### One More Thing
 
-If you have any questions about this project or the material we have covered, please post them in the community channels in slack so that your fellow developers can help you! If you're still having trouble, you can come to office hours for assistance from your instructor and TAs.
+<!-- If you have any questions about this project or the material we have covered, please post them in the community channels in slack so that your fellow developers can help you! If you're still having trouble, you can come to office hours for assistance from your instructor and TAs. -->
 
 **Good Luck!**
