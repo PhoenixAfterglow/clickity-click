@@ -34,13 +34,10 @@ We plan on adding more features including, but not limiting to, sound effects (s
 
 ## Dependencies
 
-* [express](https://www.npmjs.com/package/express) - Express Server
-* [express-session](https://www.npmjs.com/package/express-session) - Express middleware
-* [multer](https://www.npmjs.com/package/multer) - Middleware for handling multipart / form-data, which is primarily used for uploading files
-* [mysql2](https://www.npmjs.com/package/mysql2) - Increases database performance
-* [passport](https://www.npmjs.com/package/passport) - Authentication
-* [passport-local](https://www.npmjs.com/package/passport-local) - Local authentication
-* [sequelize](https://www.npmjs.com/package/sequelize) - Used for Database
+* [node](https://nodejs.org/en/) - NodeJS.
+* [react](https://reactjs.org/) - ReactJS.
+* [react-dom](https://www.npmjs.com/package/react-dom) - React package for working with the DOM
+* [react-scripts](https://www.npmjs.com/package/react-scripts) - Configuration and scripts for Create React App.
 
 
 ## Authors / Collaborators
