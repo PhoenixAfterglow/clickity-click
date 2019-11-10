@@ -9,7 +9,7 @@ You need to have a brain with working memory.
 ## Getting Started
 
 Visit the deployed Charted link on Heroku at:
-https:// 
+https://phoenixafterglow.github.io/clickity-click/ 
 
 Simply click on the first PoKeMoN of your choice.  Keep clicking others that were not yet selected.  If you failed or reached a perfect 12/12, you can restart the game again by clicking the "Restart" button.
 
@@ -22,15 +22,18 @@ We plan on adding more features including, but not limiting to, sound effects (s
 
 ## Deployment
 
-[Deployed link](#####)
+[Deployed link](https://phoenixafterglow.github.io/clickity-click/)
 
 ## Built With
 
 * [Git](https://git-scm.com/) - The terminal / bash framework used
+* [NodeGH](http://nodegh.io/) - Used for deployment.
+* [GitHub Pages - GH](https://git-scm.com/) - Used for deployed environment.
 * [JavaScript](https://www.javascript.com/) - Main programming / coding language
 * [NodeJS](https://nodejs.org/en/) - An open-source, cross-platform, environment that executes JavaScript code outside of a browser
 * [ExpressJS](https://expressjs.com/) - Unopinionated, minimalist web framework for Node.js
-* [Heroku](https://www.heroku.com/) - A cloud platform as a service supporting several programming languages; used for deployement
+* [ReactJS](https://reactjs.org/) - A JavaScript library for building user interfaces
+* [PoKeMoN DB](https://pokemondb.net/) - A library of all PoKeMon, images, info, entries, etc.
 
 ## Dependencies
 
