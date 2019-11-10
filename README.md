@@ -13,7 +13,7 @@ https://phoenixafterglow.github.io/clickity-click/
 
 Simply click on the first PoKeMoN of your choice.  Keep clicking others that were not yet selected.  If you failed or reached a perfect 12/12, you can restart the game again by clicking the "Restart" button.
 
-![](public/images/screenshot01.png)
+![](../public/images/screenshot01.png)
 
 
 
