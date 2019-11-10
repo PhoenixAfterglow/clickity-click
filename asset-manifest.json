@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/clickity-click/static/css/main.66b45759.chunk.css",
+    "main.js": "/clickity-click/static/js/main.be8c3fbe.chunk.js",
+    "main.js.map": "/clickity-click/static/js/main.be8c3fbe.chunk.js.map",
+    "runtime-main.js": "/clickity-click/static/js/runtime-main.8a176890.js",
+    "runtime-main.js.map": "/clickity-click/static/js/runtime-main.8a176890.js.map",
+    "static/js/2.755cad25.chunk.js": "/clickity-click/static/js/2.755cad25.chunk.js",
+    "static/js/2.755cad25.chunk.js.map": "/clickity-click/static/js/2.755cad25.chunk.js.map",
+    "index.html": "/clickity-click/index.html",
+    "precache-manifest.14d9cc137299d25025fe5aca6c013d3a.js": "/clickity-click/precache-manifest.14d9cc137299d25025fe5aca6c013d3a.js",
+    "service-worker.js": "/clickity-click/service-worker.js",
+    "static/css/main.66b45759.chunk.css.map": "/clickity-click/static/css/main.66b45759.chunk.css.map",
+    "static/media/pokeball.png": "/clickity-click/static/media/pokeball.441861dd.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a176890.js",
+    "static/js/2.755cad25.chunk.js",
+    "static/css/main.66b45759.chunk.css",
+    "static/js/main.be8c3fbe.chunk.js"
+  ]
+}
